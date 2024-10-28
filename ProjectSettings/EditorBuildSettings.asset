@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Bowling.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 80de8b5b327401a418d08c5676a17408,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3f27a06a86e045a4b9b7a5d00a31d27b,
+      type: 2}
